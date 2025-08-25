@@ -1,0 +1,22 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "colors": "^1.4.0",
+    "commander": "^14.0.0",
+    "isomorphic-dompurify": "^2.26.0",
+    "mime-types": "^3.0.1",
+    "progress": "^2.0.3",
+    "url": "^0.11.4"
+  }
+}
